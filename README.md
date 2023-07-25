@@ -1,5 +1,15 @@
 # MyBookstore
 
+project avaliable at:
+
+https://evrid.github.io/Angular-Book-Project/books
+
+I deployed my API at:
+
+https://redrivertestapi.azurewebsites.net/api
+
+You can check list of books by: https://redrivertestapi.azurewebsites.net/api/books
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
 ## Development server
