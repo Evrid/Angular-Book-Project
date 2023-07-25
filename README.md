@@ -1,5 +1,9 @@
 # MyBookstore
 
+project avaliable at:
+https://evrid.github.io/Angular-Book-Project/books
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
 ## Development server
